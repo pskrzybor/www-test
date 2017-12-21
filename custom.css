@@ -1,0 +1,66 @@
+body{
+	color: #e5e5e5;
+	
+}
+
+
+#main {
+	text-align: center;
+	background-color: #002448;
+	/* background: url("../img/mainbg.jpg") no-repeat; */
+	background-position: center;
+	height: 900px;
+}
+
+
+
+#main h1{
+	padding-top: 400px;
+}
+
+#About {
+	text-align: center;
+	background-color: #042c62;
+	/* background: url("../img/mainbg.jpg") no-repeat; */
+	background-position: center;
+	height: 600px;
+}
+
+#About h1{
+	padding-top: 50px;
+}
+
+#About img{
+	padding-top: 100px;
+}
+
+#Offer {
+	text-align: center;
+	background-color: #002448;
+	/* background: url("../img/mainbg.jpg") no-repeat; */
+	background-position: center;
+	height: 600px;
+}
+
+#Offer h1{
+	padding-top: 50px;
+}
+
+#Offer img{
+	padding-top: 0px;
+}
+#Contact {
+	text-align: center;
+	background-color: #042c62;
+	/* background: url("../img/mainbg.jpg") no-repeat; */
+	background-position: center;
+	height: 400px;
+}
+
+#Contact h1{
+	padding-top: 50px;
+}
+
+#Contact img{
+	padding-top: 100px;
+}
